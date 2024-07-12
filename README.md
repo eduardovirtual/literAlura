@@ -16,11 +16,12 @@ Nesse projeto, o desafio era desenvolver uma aplicação que através do consumo
 
 ## Demonstração do Menu Principal:
 
-![demonstrativo do menu principal](assets-md/menu-inicial.png)
+![demonstrativo do menu principal](literalura/src/assets-md/menu-inicial.png)
 
 ## Demonstração do consumo da API:
 
-![demonstrativo do uso da aplicação](assets-md/uso-da-api.png)
+![demonstrativo do uso da aplicação](literalura/src/assets-md/uso-da-api.png)
+
 
 
   
