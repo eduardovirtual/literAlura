@@ -22,7 +22,8 @@ Nesse projeto, o desafio era desenvolver uma aplicação que através do consumo
 
 ![demonstrativo do uso da aplicação](literalura/src/assets-md/uso-da-api.png)
 
-
+## Badge de conclusão do Challenge ONE:
+![badge de conclusão do desafio](literalura/src/assets-md/badge-literalura.png)
 
   
 
